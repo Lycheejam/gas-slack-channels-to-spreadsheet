@@ -1,7 +1,5 @@
 # GAS slack channels to spreadsheet
 
-// 建設予定地
-
 ## 概要
 
 Slackのチャンネル一覧をspreadsheetに出力するGAS。
